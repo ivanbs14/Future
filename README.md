@@ -53,11 +53,11 @@ Para o Cliente, usamos:
 
 ## 💻 Clone e acesse o projeto
 ------------
-    `https://github.com/ivanbs14/Blog.git`
+    `https://github.com/ivanbs14/Future.git`
 
     or 
 
-    `gh repo clone ivanbs14/Blog`
+    `gh repo clone ivanbs14/Future`
 
 ## 💻 Configurar e executar API REST local
 ------------

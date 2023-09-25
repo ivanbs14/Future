@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "13f238d3-4c3f-458a-b219-5656ae3421a1",
+      "name": "David Facó",
+      "age": "27",
+      "email": "davidfaco@gmail.com",
+      "field": "software development",
+      "points": 100,
+      "avatar": "https://github.com/David.png"
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+      "name": "Sarah Johnson",
+      "age": "32",
+      "email": "sarah.johnson@example.com",
+      "field": "web design",
+      "points": 85,
+      "avatar": "https://github.com/sara.png"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7g8h-9i0j-1k2l3m4n5o6q",
+      "name": "Michael Smith",
+      "age": "35",
+      "email": "michael.smith@example.com",
+      "field": "data science",
+      "points": 95,
+      "avatar": "https://github.com/Michael.png"
+    },
+    {
+      "id": "1z2x3y4w-5v6u-7t8s-9r0q-1p2o3n4m5l",
+      "name": "Emma Brown",
+      "age": "29",
+      "email": "emma.brown@example.com",
+      "field": "graphic design",
+      "points": 88,
+      "avatar": "https://github.com/ana.png"
+    },
+    {
+      "id": "9z8x7y6w-5v4u-3t2s-1r0q-0p9o8n7m6l",
+      "name": "Daniel Johnson",
+      "age": "30",
+      "email": "daniel.johnson@example.com",
+      "field": "mobile app development",
+      "points": 92,
+      "avatar": "https://github.com/Daniel.png"
+    },
+    {
+      "id": "5a4b3c2d-1e2f-3g4h-5i6j-7k8l9m0n1o",
+      "name": "Emily Wilson",
+      "age": "28",
+      "email": "emily.wilson@example.com",
+      "field": "machine learning",
+      "points": 98,
+      "avatar": "https://github.com/Emily.png"
+    },
+    {
+      "id": "4a3b2c1d-0e1f-2g3h-4i5j-6k7l8m9n0o",
+      "name": "James Davis",
+      "age": "33",
+      "email": "james.davis@example.com",
+      "field": "front-end development",
+      "points": 89,
+      "avatar": "https://github.com/James.png"
+    },
+    {
+      "id": "0z1x2y3w-4v5u-6t7s-8r9q-0p1o2n3m4l",
+      "name": "Olivia Taylor",
+      "age": "31",
+      "email": "olivia.taylor@example.com",
+      "field": "UI/UX design",
+      "points": 93,
+      "avatar": "https://github.com/maria.png"
+    },
+    {
+      "id": "8z7x6y5w-4v3u-2t1s-0r9q-8p7o6n5m4l",
+      "name": "William Miller",
+      "age": "34",
+      "email": "william.miller@example.com",
+      "field": "backend development",
+      "points": 90,
+      "avatar": "https://github.com/William.png"
+    },
+    {
+      "id": "3a2b1c0d-9e8f-7g6h-5i4j-3k2l1m0n9o",
+      "name": "Samuel Harris",
+      "age": "26",
+      "email": "sophia.harris@example.com",
+      "field": "data analysis",
+      "points": 87,
+      "avatar": "https://github.com/cesar.png"
+    }
+  ]
+}

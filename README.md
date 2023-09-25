@@ -1,20 +1,3 @@
-<!-- # server alternativo 
-   - instalação: npm install -g json-server
-   - execute serve: json-server --watch db.json
-
-#  app
-   - Execute app: npm run dev
-
-{
-   "id": "13f238d3-4c3f-458a-b219-5656ae3421a1",
-   "name": "David Facó",
-   "age": "27",
-   "email": "davidfaco@gmail.com",
-   "field": "software development",
-   "points": 100,
-   "avatar": "https://github.com/David.png"
-}, -->
-
 <h1 align="center"> Future Knowledge </h1>
 
 <p align="center">
@@ -65,7 +48,10 @@ Acesse a pasta do cliente:
 
 `cd future/`
 
-Agora, e execute seu aplicativo
+Agora, instale e execute o server local
+
+`npm install -g json-server`
+
 
 `json-server --watch db.json`
 
